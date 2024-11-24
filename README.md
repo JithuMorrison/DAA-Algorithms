@@ -16,4 +16,4 @@ Few of the algorithms are stored here.
 
 ## 🛠️ Technologies Used
 
-- Programming Language: Python (or other languages, if specified)  
+- Programming Language: Python
